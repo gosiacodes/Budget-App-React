@@ -1,0 +1,16 @@
+.button-green {
+  background-color: #005b4c;
+  color: #fff;
+  width: 18rem;
+  height: 3rem;
+  border-radius: 0.25rem;
+  font-size: 1.25rem;
+  margin: 0.5rem;
+  cursor: pointer;
+  transition-duration: 0.3s;
+  box-shadow: 0 3px 8px rgb(74 68 83 / 70%);
+}
+
+.button-green:hover {
+  background-color: #4b8178;
+}

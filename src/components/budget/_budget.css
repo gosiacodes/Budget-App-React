@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+.budget-info {
+  margin: 1rem;
+  align-items: flex-start;
+  border: #b59136 2px solid;
+  border-radius: 0.5rem;
+  box-shadow: 0 3px 8px rgb(74 68 83 / 70%);
+}
+
+.budget-title {
+  color: #005b4c;
+}
+
+.expences-info {
+  margin: 1rem;
+  padding: 1rem;
+  border: #b59136 2px solid;
+  border-radius: 0.5rem;
+  box-shadow: 0 3px 8px rgb(74 68 83 / 70%);
+}
+
+th {
+  color: #005b4c;
+  padding: 0.5rem 0.25rem;
+  text-align: inherit;
+}
+
+td {
+  padding-left: 0.5rem;
+  word-wrap: break-word;
+}

@@ -1,0 +1,8 @@
+@import './App.css';
+@import '../components/header/_header.css';
+@import '../components/footer/_footer.css';
+@import '../components/deposit/_deposit.css';
+@import '../components/withdraw/_withdraw.css';
+@import '../components/budget/_budget.css';
+
+
