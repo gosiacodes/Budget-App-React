@@ -7,7 +7,13 @@ https://margareta75.github.io/Budget-App-React/
 
 ## :pushpin: _How does the application work?_
 
-Budget / bank application  made with React.js and local storage.
+Budget / bank application  made with React.js and LocalStorage.
+
+Training: 
+
+• React - class component (except app component), props, events, map() iterator, JSX, methods that render HTML code
+
+• JS and ES6 - arrow functions, map() or set() data structure, LocalStorage
 
 You can deposit and withdraw money, and see last deposit and withdraw.
 
