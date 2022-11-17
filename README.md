@@ -19,11 +19,11 @@ You can deposit and withdraw money, and see last deposit and withdraw.
 
 You can also see total budget and total withdrawn sum.
 
-When you do withdraw, you enter withdraw name and it only can be unique name.
+When you do withdraw, you enter withdraw name and it only can be a unique name.
 
-Withdraw names and amounts saves in separate list next to budget.
+Withdraw names and amounts saves in separate list next to the budget.
 
-All values saves in local storage, so it works when you come back later to website.
+All values saves in LocalStorage, so it works when you come back later to the website.
 
 
 
