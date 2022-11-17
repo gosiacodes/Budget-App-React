@@ -1,3 +1,26 @@
+# :sparkles: Budget App React :sparkles:
+
+Budget App made with React - school project at JavaScript3 course (2022)
+
+https://margareta75.github.io/Budget-App-React/
+
+
+## :pushpin: _How does the application work?_
+
+Budget / bank application  made with React.js and local storage.
+
+You can deposit and withdraw money, and see last deposit and withdraw.
+
+You can also see total budget and total withdrawn sum.
+
+When you do withdraw, you enter withdraw name and it only can be unique name.
+
+Withdraw names and amounts saves in separate list next to budget.
+
+All values saves in local storage, so it works when you come back later to website.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
