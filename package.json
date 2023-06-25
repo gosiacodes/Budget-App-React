@@ -1,7 +1,7 @@
 {
   "name": "react-intro-1",
   "version": "0.1.0",
-  "homepage": "https://margareta75.github.io/Budget-App-React",
+  "homepage": "https://gosiacodes.github.io/Budget-App-React",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
