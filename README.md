@@ -25,9 +25,13 @@ Withdraw names and amounts saves in separate list next to the budget.
 
 All values saves in LocalStorage, so it works when you come back later to the website.
 
+You can reset all values by clicking on "RESET" button.
+
+## :pushpin: _GUI example_
+![Budget App](public/images/Budget_App.png)
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
